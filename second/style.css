@@ -1,0 +1,54 @@
+* {
+	box-sizing: border-box;
+}
+html, body {
+	height: 100%;
+    width: 100%;
+    margin: 0px;
+}
+
+.bb{
+   background-color: #008AE6;
+   margin-left: auto;
+   margin-right: auto;
+   height: 100%;
+   width: 33.3%;
+   float: left;
+
+}
+
+.tt{
+	background-color: #94FFDB;
+   height: 100%;
+   width: 33.3%;
+   float: left;
+}
+
+.gg{
+	background-color: #8AE68A;
+	height: 70%;
+	width: 33.3%;
+	float: left;
+}
+
+.rr{
+	background-color: red;
+	height: 30%;
+	width: 33%;
+	float: left;
+}
+
+ p {
+	color: white;
+	position: relative;
+	margin: 0 auto;
+	text-align: center;
+	vertical-align: middle;
+	position: relative;
+	left: .50em;
+	top: 6em;
+	bottom: 1em;
+	right: .50em;
+
+}
+   

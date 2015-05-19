@@ -1,0 +1,48 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0px;
+}
+.top {
+	background-color: grey;
+	height: 90px;
+}
+
+div.top div {
+	background-color: #0099FF;
+	height: 70px;
+	width: 70px;
+	margin-left: 10px;
+	margin-top: 10px;
+	float: left;
+}
+
+.textb {
+	background-color: #ffffff;
+	height: 180px;
+	display: table;
+	}
+
+p{
+	padding-left: 10%;
+	padding-top:  5%;
+	padding-right: 10%;
+	display: table-cell;
+}
+
+.cb {
+	background-color: #0099FF;
+	height: 90px;
+}
+.cc {
+	background-color: #66FFFF;
+	height: 90px;
+}
+.cd{
+	background-color: #CCFF99;
+	height: 90px;
+}
+.ce{
+	background-color: #FFFF66;
+	height: 90px;
+}
